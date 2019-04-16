@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.SubmitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-30T01:51:33" hostname="LAPTOP-COV2IIRA" time="0.914">
+  <properties/>
+  <testcase name="getQuoteByActor" classname="challenge.SubmitTest" time="0.897"/>
+  <testcase name="getQuote" classname="challenge.SubmitTest" time="0.016"/>
+  <system-out><![CDATA[{"actor": "John Cleese", "quote": "Yes."}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
